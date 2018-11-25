@@ -1,2 +1,2 @@
 # Learning
-Repository to be used for learning
+Repository to be used for learning scm
